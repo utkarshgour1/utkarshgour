@@ -9,7 +9,10 @@ Hi! I'm **Utkarsh**, an **Aspiring DevOps Engineer** 🚀, transitioning into th
 - **AWS** ☁️  
 - **Linux** 🐧  
 - **Bash Scripting** 📜  
-- **Git & Version Control** 🔧  
+- **Git & Version Control** 🔧
+- **Terraform** 🌄  
+- **Docker** 🛠  
+- **Kubernetes** 🌐   
 - And many more exciting DevOps tools!  
 
 💡 I aim to build scalable, efficient, and secure solutions while mastering the DevOps lifecycle.
